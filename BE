@@ -1,2 +1,2 @@
 BE_VERSION[20200318_01]BE_VERSION
-BE_DLPATH[https://k.kakaocdn.net/dn/tZbs7/btqCPAwizpk/We0rJKRNdhpBWwl987PLsk/BE_20200302_01.exe?attach=1&knm=tfile.exe]BE_DLPATH
+BE_DLPATH[ddudhM/btqCPBaVQI0/Ju8Ez3wMFczJCPmPV0YLVK]BE_DLPATH
